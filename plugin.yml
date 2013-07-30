@@ -1,7 +1,7 @@
 name: TabConfig
-main: org.mcsg.double0negative.tabconfig.TabConfig
+main: com.github.blockedup.infotab
 version: 1
-authors: [Double0negative, MCSG]
+authors: [mpotacon, zdylann, Double0negative, MCSG]
 depend: [TabAPI]
 
 commands:
