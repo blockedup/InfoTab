@@ -1,4 +1,5 @@
-    Creator mpotacon &zdylann
+    Original Creator Double0negative - https://github.com/Double0negative/TabConfig
+    Modifier mpotacon & zdylann
     Licence: GNU Lesser General Public License Version 3 (LGPLv3)
 
     Blockedup's TabAPI
